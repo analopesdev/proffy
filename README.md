@@ -1,6 +1,5 @@
-<p align="center">
+
   ![image](https://user-images.githubusercontent.com/54561217/89537467-c6b25700-d7cf-11ea-9a6e-ac5e0d3e00ef.png)
-</p>
 
 # 📑 Índice
 
