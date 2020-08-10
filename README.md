@@ -1,61 +1,119 @@
+# Proffy
 
-  ![image](https://user-images.githubusercontent.com/54561217/89537467-c6b25700-d7cf-11ea-9a6e-ac5e0d3e00ef.png)
+<p>
+  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-04D361?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/proffy?color=04D361&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/proffy?color=04D361&style=flat-square">
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-04D361?style=flat-square">
+  </a>
+  <a href="https://github.com/martins-rafael/proffy/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/martins-rafael/proffy?color=04D361&style=flat-square">
+  </a>
+</p>
 
-# 📑 Índice
+<img align="right" src="web/src/assets/images/landing.svg?raw=true" width="35%" alt="Proffy">
 
-### [Sobre o Projeto](#-sobre-o-projeto)
+## Tópicos 
 
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Design](#-design)
-- [Executar esse projeto no seu computador](#Executar-esse-projeto-no-seu-computador)
-- [Como criar esse projeto do zero](#Como-criar-esse-projeto-do-zero)
+[Sobre o Proffy](#sobre-o-proffy)
 
-# 💡 Sobre o Projeto
+[Tecnologias](#tecnologias)
 
-Criação do Proffy, uma plataforma para conexão professores e alunos.
+[Instalação e uso](#instalação-e-uso)
 
-## 🚀 Tecnologias utilizadas
+[Licença](#licença)
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+<br>
 
-- ReactJS
-- React Native
-- TypeScript
-- HTML5 e CSS3
-- NodeJS
+## Sobre o Proffy
 
-## 🎨 Design
+O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvida durante a Next Level Week #2 da [Rocketseat](https://rocketseat.com.br/).
 
-Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
+<br>
 
-### Desktop
+<p align="center">
+  <img src=".github/mockup.png" alt="Página inicial">
+</p>
 
-| <img src="./readme/preview-web.png" width=500 /> | <img src="./readme/Formulário.png" width=500 /> |
-| ------------------------------------------------ | ----------------------------------------------- |
+## Tecnologias
 
+As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
-### Mobile
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [Node](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [SQLite3](https://www.sqlite.org/index.html)
+- [Knex](http://knexjs.org/)
 
-| <img src="./readme/preview-mobile.png" width=300 /> | <img src="./readme/Home-mobile.png" width=300 /> |
-| --------------------------------------------------- | ------------------------------------------------ |
+<br>
 
+## Instalação e uso
 
-# Executar esse projeto no seu computador
+### API (Back-end)
 
-- Clonar Repositório: `git clone https://github.com/dxwebster/NLW2-Proffy.git`
+```bash
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/martins-rafael/proffy.git
+# ou use a opção de download.
 
-Ir para a pasta 'web' para rodar o front-end, ou ir para pasta 'server' para rodar o back-end:
+# Entre na pasta server 
+$ cd proffy/server
 
-- Instalar dependências: `yarn install`
-- Rodar Aplicação: `yarn start`
+# Instale as dependências
+$ yarn install
 
-# Como criar esse projeto do zero
+# Rode o servidor
+$ yarn start
+```
 
-Esse tutorial está divido em front-end e back-end. Basta seguir passo a passo para criar esse mesmo projeto no seu computador.
+<br>
 
-# 🚧 Em construção...🚧
+### Web (Front-end)
 
-## 📕 Licença
+```bash
+# Entre na pasta web com 
+$ cd proffy/web
 
-Todos os arquivos incluídos aqui, incluindo este _ README _, estão sob [Licença MIT](./LICENSE).
-Criado por [Ana Lúcia Lopes de Morais](https://github.com/dxwebster)
+# Instale as dependências
+$ yarn install
+
+# Rode o aplicação
+$ yarn start
+```
+
+<br>
+
+### Mobile (App)
+
+```bash
+# Entre na pasta mobile com 
+$ cd proffy/mobile
+
+# Instale as dependências
+$ yarn install
+
+# Rode o app
+$ yarn start
+
+# Escaneie o QR Code exibido na janela do navegador.
+```
+
+<br>
+
+## Licença
+<a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-04D361?style=flat-square">
+</a>
+
+<br>
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com :purple_heart: by [Ana Lúcia Lopes de Morais](https://github.com/analopesdev)
+
