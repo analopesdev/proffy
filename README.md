@@ -6,10 +6,6 @@ O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvid
 
 <br>
 
-<p align="center">
-  <img src=".github/mockup.png" alt="Página inicial">
-</p>
-
 ## Tecnologias
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
