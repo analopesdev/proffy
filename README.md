@@ -1,5 +1,8 @@
 # Proffy
 
+<h1 align="center" >
+  <img alt="happy" title="happy" src="./assets/proffy.png" />
+</h1>
 ## Sobre o Proffy
 
 O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvida durante a Next Level Week #2 da [Rocketseat](https://rocketseat.com.br/).
@@ -86,4 +89,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 ---
 
 Feito com :purple_heart: by [Ana Lúcia Lopes de Morais](https://github.com/analopesdev)
-
