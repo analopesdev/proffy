@@ -3,6 +3,7 @@
 <h1 align="center" >
   <img alt="happy" title="happy" src="./assets/proffy.png" />
 </h1>
+
 ## Sobre o Proffy
 
 O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvida durante a Next Level Week #2 da [Rocketseat](https://rocketseat.com.br/).
